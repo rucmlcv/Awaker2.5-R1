@@ -9,7 +9,7 @@
 ## Performance
 - We conducted evaluations on three commonly used mathematical benchmarks, namely MathVista (Testmini), MathVerse (Testmini & VisionOnly), and WeMath. The scores of other models are sourced from [OpenCompass](https://rank.opencompass.org.cn/leaderboard-multimodal-reasoning/?m=REALTIME).
 
-| Models               | Parameters |   Mathvista | Mathverse | WeMath | Avg|
+| Models               | Parameters |   Mathvista | Mathverse | WeMath | Avg.|
 | ------------------- | :--------: | :------: | :--------: | :-------: |  :-------: |
 |Doubao-1.5-Pro	| - |78.6	|64.7	|65.7	|69.6|
 |Ovis2-34B	| 34B|76.1	|50.1	|51.9	|59.3|

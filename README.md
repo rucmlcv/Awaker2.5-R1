@@ -119,7 +119,11 @@ print(output_text[0])
 ```
 
 ## Training Process
-![Accuracy reward](https://github.com/MetabrainAGI/Awaker2.5-R1/blob/main/figs/reward_accuracy_49k.png)
+![Accuracy Reward](https://github.com/MetabrainAGI/Awaker2.5-R1/blob/main/figs/reward_accuracy_49k.png) 
+![Format Reward](https://github.com/MetabrainAGI/Awaker2.5-R1/blob/main/figs/reward_format_49k.png)
+![Reward Mean](https://github.com/MetabrainAGI/Awaker2.5-R1/blob/main/figs/reward_mean_49k.png)
+![Reward Std](https://github.com/MetabrainAGI/Awaker2.5-R1/blob/main/figs/reward_std_49k.png)
+![Completion Length](https://github.com/MetabrainAGI/Awaker2.5-R1/blob/main/figs/reward_cl_49k.png)
 
 
 

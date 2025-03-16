@@ -43,7 +43,7 @@
 
 - **Model Weights**
   
-  Download model weigths of [Awaker-R1](https://huggingface.co/MetabrainAGI/Awaker2.5-R1)
+  Download model weigths of [Awaker2.5-R1](https://huggingface.co/MetabrainAGI/Awaker2.5-R1)
 
 - **Inference Code**
   

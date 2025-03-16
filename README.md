@@ -118,4 +118,8 @@ output_text = processor.batch_decode(
 print(output_text[0])
 ```
 
+## Training Process
+![Accuracy reward](https://github.com/MetabrainAGI/Awaker2.5-R1/blob/main/figs/reward_accuracy_49k.png)
+
+
 

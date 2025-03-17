@@ -7,7 +7,7 @@
 - By training on a 50k mathematical geometry reasoning dataset, we enhanced the mathematical reasoning capabilities of Qwen2.5-VL-7B, achieving performance on MathVista that approaches OpenAI's o1 model. 
 
 ## Performance
-- We conducted evaluations on three commonly used mathematical benchmarks, namely MathVista (Testmini), MathVerse (Testmini & VisionOnly), and WeMath. The scores of other models are sourced from [OpenCompass](https://rank.opencompass.org.cn/leaderboard-multimodal-reasoning/?m=REALTIME).
+- We conducted evaluations on three commonly used mathematical benchmarks, namely MathVista (Testmini), MathVerse (Testmini & Vision_Only), and WeMath. The scores of other models are sourced from [OpenCompass](https://rank.opencompass.org.cn/leaderboard-multimodal-reasoning/?m=REALTIME).
 
 | Models               | Parameters |   Mathvista | Mathverse | WeMath | Avg.|
 | ------------------- | :--------: | :------: | :--------: | :-------: |  :-------: |
